@@ -34,7 +34,7 @@ const App = () => {
       description: "Equilibra tu vida laboral y personal en Surco. Mientras dejamos tu auto impecable con productos biodegradables, tú disfrutas de un coworking seguro o te relajas en nuestro lounge.",
     },
     contact: {
-      phone: "+51 999 999 999", // Formato Perú
+      phone: "+51 999 999 991", // Formato Perú
       email: "reservas@carwashlounge.pe",
       address: "Av. Santiago de Surco, Lima - Perú",
       hours: {
